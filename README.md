@@ -204,9 +204,9 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 ## Steganography
 
 - [ ] [TryHackMe | CC: Steganography](https://tryhackme.com/room/ccstego)
-- [ ] [TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)
+- [x] [TryHackMe | Cicada-3301 Vol:1](https://tryhackme.com/room/cicada3301vol1)
 - [ ] [TryHackMe | Musical Stego](https://tryhackme.com/room/musicalstego)
-- [ ] [TryHackMe | Madness](https://tryhackme.com/room/madness)
+- [x] [TryHackMe | Madness](https://tryhackme.com/room/madness)
 - [ ] [TryHackMe | Psycho Break](https://tryhackme.com/room/psychobreak)
 - [ ] [TryHackMe | Unstable Twin](https://tryhackme.com/room/unstabletwin)
 
