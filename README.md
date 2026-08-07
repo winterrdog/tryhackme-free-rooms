@@ -1,4 +1,4 @@
-# TryHackMe Free Rooms( _they cost $0.00000_ )
+t# TryHackMe Free Rooms( _they cost $0.00000_ )
 
 Hey people, here's a list of **390+ Free TryHackMe rooms** to start learning hacking. I have arranged & compiled them according to different topics so that you can start hacking right now and also!
 All the rooms herein, are absolutely free. ATTACK!!
@@ -115,8 +115,8 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Data Representation](https://tryhackme.com/room/datarepresentation)
 - [ ] [TryHackMe | Data Encoding](https://tryhackme.com/room/dataencoding)
 - [ ] [TryHackMe | The CIA Triad](https://tryhackme.com/room/theciatriad)
-- [ ] [TryHackMe | Inside a Computer System](https://tryhackme.com/room/insideacomputer)
-- [ ] [TryHackMe | Computer Types](https://tryhackme.com/room/computertypes)
+- [ ] [TryHackMe | Inside a Computer System](https://tryhackme.com/room/insideacomputer) 
+- ~~[TryHackMe | Computer Types](https://tryhackme.com/room/computertypes)~~ -- TryHackMe made this room **PREMIUM**.
 - [ ] [TryHackMe | Virtualisation Basics](https://tryhackme.com/room/virtualisationbasics)
 - [ ] [TryHackMe | Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports)
 - [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
