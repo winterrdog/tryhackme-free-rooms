@@ -128,7 +128,7 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Threat Intelligence for SOC](https://tryhackme.com/room/threatintelligenceforsoc)
 - [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 - [ ] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
-- ~~[TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)~~ -- 
+- ~~[TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)~~ -- TryHackMe made this room**PREMIUM**.
 - [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 - [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 - [ ] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
