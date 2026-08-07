@@ -1,4 +1,4 @@
-# TryHackMe Free Rooms( _they cost $0.00000_ )
+t# TryHackMe Free Rooms( _they cost $0.00000_ )
 
 Hey people, here's a list of **390+ Free TryHackMe rooms** to start learning hacking. I have arranged & compiled them according to different topics so that you can start hacking right now and also!
 All the rooms herein, are absolutely free. ATTACK!!
@@ -115,11 +115,11 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Data Representation](https://tryhackme.com/room/datarepresentation)
 - [ ] [TryHackMe | Data Encoding](https://tryhackme.com/room/dataencoding)
 - [ ] [TryHackMe | The CIA Triad](https://tryhackme.com/room/theciatriad)
-- [ ] [TryHackMe | Inside a Computer System](https://tryhackme.com/room/insideacomputer)
-- [ ] [TryHackMe | Computer Types](https://tryhackme.com/room/computertypes)
-- [ ] [TryHackMe | Virtualisation Basics](https://tryhackme.com/room/virtualisationbasics)
+- [ ] [TryHackMe | Inside a Computer System](https://tryhackme.com/room/insideacomputer) 
+- ~~[TryHackMe | Computer Types](https://tryhackme.com/room/computertypes)~~ -- TryHackMe made this room **PREMIUM**.
+- ~~[TryHackMe | Virtualisation Basics](https://tryhackme.com/room/virtualisationbasics)~~ -- TryHackMe made this room **PREMIUM**.
 - [ ] [TryHackMe | Writing Pentest Reports](https://tryhackme.com/room/writingpentestreports)
-- [ ] [TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)
+- ~~[TryHackMe | Bypass Really Simple Security](https://tryhackme.com/room/bypassreallysimplesecurity)~~ -- TryHackMe made this room **PREMIUM**.
 - [ ] [TryHackMe | Insecure Randomness](https://tryhackme.com/room/insecurerandomness)
 - [ ] [TryHackMe | Hypervisor Internals](https://tryhackme.com/r/room/hypervisorinternals)
 - [ ] [TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
@@ -128,24 +128,24 @@ If you genuinely feel like this project helped you a lot, you can always send yo
 - [ ] [TryHackMe | Threat Intelligence for SOC](https://tryhackme.com/room/threatintelligenceforsoc)
 - [ ] [TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 - [ ] [TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
-- [ ] [TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
+- ~~[TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)~~ -- TryHackMe made this room**PREMIUM**.
 - [ ] [TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 - [ ] [TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
 - [ ] [TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 - [ ] [TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
-- [ ] [TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)
+- ~~[TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)~~ -- The room owner has locked this room.
 - [ ] [TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
 ## Recon
 
-- [ ] [TryHackMe | Cyber Kill Chain](https://tryhackme.com/room/cyberkillchain)
+- ~~[TryHackMe | Cyber Kill Chain](https://tryhackme.com/room/cyberkillchain)~~ -- 
 - [ ] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 - [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
-- [ ] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
+- ~~[TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)~~ -- TryHackMe made this room **PREMIUM**.
 - [ ] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 - [ ] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 - [ ] [TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
-- [ ] [TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
+- ~~[TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)~~ -- Not a direct link to access.
 - [ ] [TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
 - [ ] [TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
