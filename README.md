@@ -1,4 +1,4 @@
-t# TryHackMe Free Rooms( _they cost $0.00000_ )
+# TryHackMe Free Rooms( _they cost $0.00000_ )
 
 Hey people, here's a list of **390+ Free TryHackMe rooms** to start learning hacking. I have arranged & compiled them according to different topics so that you can start hacking right now and also!
 All the rooms herein, are absolutely free. ATTACK!!
